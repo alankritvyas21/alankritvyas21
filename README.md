@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-Hi i am Alankrit Vyas, currently pursuing computer and communication engineering at Manipal University Jaipur. I am a Web developer, cybersecurity, and UX design enthusiast. I have experience with a lot of programming languages like C, C++, Java, etc.
+Hi i am Alankrit Vyas, currently pursuing Computer and Communication Engineering at Manipal University Jaipur. I am a Web developer, Cybersecurity, and UX design enthusiast. I have experience with a lot of programming languages like C, C++, Java, etc.
 
 Learning web development for some time has attracted me to UX design. With this, the ability to design your website makes this a lot of fun to work and keeps me continuously excited for my projects.
 
-My skill set includes: C,C++,Java,Rdbms,Cybersecurity(beginner),video editing,UX designing, Graphic Designing, etc.
+My skill set includes: C,C++,Java,Rdbms,Cybersecurity,video editing,UX designing, Graphic Designing, etc.
 <!--
 **alankritvyas21/alankritvyas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
