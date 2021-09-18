@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I'm Alankrit Vyas, currently pursuing computer and communication engineering at manipal university jaipur. I am a Web developer, cybersecurity and UX design enthusiast. I have experience with a lot of programming languages like C,C++,Java etc.
+Hi i am Alankrit Vyas, currently pursuing computer and communication engineering at Manipal University Jaipur. I am a Web developer, cybersecurity, and UX design enthusiast. I have experience with a lot of programming languages like C, C++, Java, etc.
 
-Learning web development from some time has attractedmme towards UX design. With this the ability to design your own website makes this a lot of fun to work and keeps me continously excited for my projects.
+Learning web development for some time has attracted me to UX design. With this, the ability to design your website makes this a lot of fun to work and keeps me continuously excited for my projects.
 
 • Content Creator (Photography / Cinematography) on Instagram Shutter_Illusions_
 
@@ -12,7 +12,7 @@ Learning web development from some time has attractedmme towards UX design. With
 -->
 Summary:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a new medium styled website
 - 🌱 I’m currently learning Cybersecurity and UX Design
 - 👯 I’m looking to collaborate on project ideas
 - 💬 Ask me about web development and GD
