@@ -16,6 +16,6 @@ Summary:
 - 🌱 I’m currently learning Cybersecurity and UX Design
 - 👯 I’m looking to collaborate on project ideas
 - 💬 Ask me about web development and GD
-- 📫 How to reach me: Linkedin | E-mail | Instagram
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/alankrit-vyas-667063190/">Linkedin</a>  | <a href="mailto:av3h.vyas@gmail.com">E-mail</a> |  <a href="https://www.instagram.com/i_alanvyas/">Instagram</a>
 
 
