@@ -4,8 +4,6 @@ Hi i am Alankrit Vyas, currently pursuing computer and communication engineering
 
 Learning web development for some time has attracted me to UX design. With this, the ability to design your website makes this a lot of fun to work and keeps me continuously excited for my projects.
 
-• Content Creator (Photography / Cinematography) on Instagram Shutter_Illusions_
-
 • Skills - C,C++,Java,RDBMS,Android,Video Editing(beginner),UX Designer,Graphic Design.
 <!--
 **alankritvyas21/alankritvyas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
