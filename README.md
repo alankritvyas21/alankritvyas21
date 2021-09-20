@@ -16,11 +16,11 @@ Summary:
 - 💬 Ask me about web development and GD
 
 ### Contact me:
-<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-facebook"><img src="Facebook.png" ></a>
 <img src="Gmail-logo 1.png" >
 <img src="link.png" >
 <img src="twit.png" >
-<img src="Facebook.png" >
+
 
 ![Alankrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=alankritvyas21&show_icons=true&theme=dark)
 <br>
