@@ -18,7 +18,7 @@ Summary:
 ### Contact me:
 
 
-![Alankrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=alankritvyas21&show_icons=true&theme=radical)
+![Alankrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=alankritvyas21&show_icons=true&theme=cobalt)
 
 
 
