@@ -16,11 +16,11 @@ Summary:
 - 💬 Ask me about web development and GD
 
 ### Contact me:
-<img src="unnamed">
-<img src="Gmail-logo">
-<img src="link">
-<img src="twit">
-<img src="Facebook">
+<img src="unnamed.png">
+<img src="Gmail-logo.png">
+<img src="link.png">
+<img src="twit.png">
+<img src="Facebook.png">
 
 ![Alankrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=alankritvyas21&show_icons=true&theme=dark)
 <br>
