@@ -16,7 +16,7 @@ Summary:
 - 💬 Ask me about web development and GD
 
 ### Contact me:
-<img src="unnamed.png" style="width:20px height:20px">
+<img src="unnamed.png" width:20px height:20px>
 <img src="Gmail-logo.png" style="width:20px height:20px">
 <img src="link.png" style="width:20px height:20px">
 <img src="twit.png" style="width:20px height:20px">
