@@ -17,7 +17,7 @@ Summary:
 
 ### Contact me:
 <img src="unnamed.png" width:20px height:20px>
-<img src="Gmail-logo.png" style="width:20px height:20px">
+<img src="Gmail-logo 1.png" style="width:20px height:20px">
 <img src="link.png" style="width:20px height:20px">
 <img src="twit.png" style="width:20px height:20px">
 <img src="Facebook.png" style="width:20px height:20px">
