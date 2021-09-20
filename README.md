@@ -21,8 +21,9 @@ Summary:
 <a href="https://www.instagram.com/i_alanvyas/"><img src="unnamed 1 1.png" ></a>
 <a href="https://twitter.com/AlankritVyas"><img src="twit 1.png" ></a>
 <a href="https://www.facebook.com/profile.php?id=100007428494855"><img src="d2e5359f8402cb8d3d7b22c463f9013b 1.png" ></a>
-
-
+<br>
+<br>
+![Visitor Count](https://profile-counter.glitch.me/alankritvyas21/count.svg)
 ![Alankrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=alankritvyas21&show_icons=true&theme=dark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alankritvyas21&layout=compact&show_icons=true&theme=dark)](https://github.com/alankritvyas21/github-readme-stats)
