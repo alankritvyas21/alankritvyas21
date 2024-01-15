@@ -10,10 +10,9 @@ My skill set includes: C,C++,Java,Rdbms,Cybersecurity,video editing,UX designing
 -->
 Summary:
 
-- 🔭 I’m currently working on a new medium styled website
-- 🌱 I’m currently learning Cybersecurity and UX Design
+- 🌱 I’m currently learning Angular and React 
 - 👯 I’m looking to collaborate on project ideas
-- 💬 Ask me about web development and GD
+- 💬 Ask me about front-end web development 
 
 ### Contact me:
 <a href="mailto:av3h.vyas@gmail.com"><img src="Gmail-logo 1.png" ></a>
